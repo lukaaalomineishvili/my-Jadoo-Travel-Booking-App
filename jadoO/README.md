@@ -2,25 +2,34 @@
 
 A front-end website built with HTML, CSS, and JavaScript. The application serves as a travel booking platform.
 
-## Features
+## 🚀 Live Preview
 
+🔗 [Live Site](https://lukalomineishvilinewbegining.on.drv.tw/www.jadoO/)
+
+## 💡 Features
+
+- Fully responsive layout  
+- User-friendly interface  
+- Cross-browser compatibility  
+- Optimized for performance and speed  
+- Built with semantic HTML5, modern CSS3, and JavaScript
 - Search for travel destinations
 - Book tickets easily
 - Responsive design for all devices
+  
 
-## How to Use
+## 🛠️ Technologies Used
 
-1. Clone the repository to your local machine  
-2. Open the `index.html` file in your browser to run the app
+- HTML5  
+- CSS3 (Flexbox, Grid)  
+- JavaScript (ES6+)  
+- Git & GitHub for version control  
 
-## Technologies Used
+## 👨‍💻 Author
 
-- HTML  
-- CSS  
-- JavaScript
+**Luka Lomineishvili**  
+Front-End Developer  
+📧 lomineishvili9@gmail.com  
+📍 Tbilisi, Georgia  
 
-## License
 
-This project is licensed under the MIT License.
-
-Luka
